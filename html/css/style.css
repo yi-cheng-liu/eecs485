@@ -1,0 +1,20 @@
+div.center{
+    margin: auto;
+    width: 75%;
+    padding: 10px;
+}
+div.topBar{
+    overflow: auto;
+    margin: 20px auto 0px auto;
+}
+div.logo{
+    padding: 15px;
+    align-items: left;
+}
+div.post{
+
+}
+div.row_of_image{
+    float: left;
+    width: 50%;
+}
